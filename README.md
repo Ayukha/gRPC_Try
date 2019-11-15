@@ -1,4 +1,4 @@
-## Steps to run:
+## Steps to run :
 
 1. Create Python3 virtualenv and install requirements.txt
 2. Run Digester_server on a seperate Terminal
